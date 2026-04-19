@@ -1,5 +1,11 @@
 # 💫 About Me:
-Currently I'm working on a couple projects, mostly with my school, like programming with the turing machine, coding hackatons (both in team and as a single person) and robotics projects. Also I'm part of the Space Propulsion Laboratory, a group of people working on model rocketry, robotics and more.
+Student developer with a hands-on approach to both software and hardware.
+I work on school projects ranging from Turing machine implementations to
+team hackathons and robotics, while also tinkering with embedded systems,
+3D printing, and Linux in my own time.
+
+I'm also a member of **[Space Propulsion Laboratory](https://www.instagram.com/spacepropulsionlaboratory)**,
+a student group focused on model rocketry, robotics, and aerospace projects.
 
 
 ## 🌐 Socials:
